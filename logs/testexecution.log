@@ -1,0 +1,43 @@
+[main] 16:27:43,309 INFO  [common.commonclass] opening browser
+[main] 16:32:12,214 INFO  [common.commonclass] opening browser
+[main] 16:45:51,266 INFO  [common.commonclass] opening browser
+[main] 16:45:56,315 INFO  [common.commonclass] opened oscommerce
+[main] 16:45:56,315 INFO  [test.CreateStepDefination] first comment
+[main] 17:32:42,408 INFO  [common.commonclass] opening browser
+[main] 17:32:47,691 INFO  [common.commonclass] opened oscommerce
+[main] 17:32:47,691 INFO  [test.CreateStepDefination] First comment
+[main] 17:33:18,477 INFO  [common.commonclass] Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='bodyContent']/div/div[1]/a[2]/u'clicked 
+[main] 17:33:20,391 INFO  [common.commonclass] [[ChromeDriver: chrome on XP (bb0ff9babe24a3dc7509dd53c6b4c1cc)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[2]/td[2]/input]entered 
+[main] 17:33:20,517 INFO  [common.commonclass] [[ChromeDriver: chrome on XP (bb0ff9babe24a3dc7509dd53c6b4c1cc)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[3]/td[2]/input]entered 
+[main] 17:33:20,751 INFO  [common.commonclass] [[ChromeDriver: chrome on XP (bb0ff9babe24a3dc7509dd53c6b4c1cc)] -> xpath: //*[@id='dob']]entered 
+[main] 17:33:20,902 INFO  [common.commonclass] [[ChromeDriver: chrome on XP (bb0ff9babe24a3dc7509dd53c6b4c1cc)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[5]/td[2]/input]entered 
+[main] 17:33:21,081 INFO  [common.commonclass] [[ChromeDriver: chrome on XP (bb0ff9babe24a3dc7509dd53c6b4c1cc)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[1]/td[2]/input]entered 
+[main] 17:33:21,214 INFO  [common.commonclass] [[ChromeDriver: chrome on XP (bb0ff9babe24a3dc7509dd53c6b4c1cc)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[3]/td[2]/input]entered 
+[main] 17:33:21,331 INFO  [common.commonclass] [[ChromeDriver: chrome on XP (bb0ff9babe24a3dc7509dd53c6b4c1cc)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[4]/td[2]/input]entered 
+[main] 17:33:21,488 INFO  [common.commonclass] [[ChromeDriver: chrome on XP (bb0ff9babe24a3dc7509dd53c6b4c1cc)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[5]/td[2]/input]entered 
+[main] 17:33:21,594 INFO  [common.commonclass] [[ChromeDriver: chrome on XP (bb0ff9babe24a3dc7509dd53c6b4c1cc)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[6]/td[2]/select]entered 
+[main] 17:33:21,742 INFO  [common.commonclass] [[ChromeDriver: chrome on XP (bb0ff9babe24a3dc7509dd53c6b4c1cc)] -> xpath: //*[@id='bodyContent']/form/div/div[5]/table/tbody/tr[1]/td[2]/input]entered 
+[main] 17:33:21,858 INFO  [common.commonclass] [[ChromeDriver: chrome on XP (bb0ff9babe24a3dc7509dd53c6b4c1cc)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[1]/td[2]/input]entered 
+[main] 17:33:21,969 INFO  [common.commonclass] [[ChromeDriver: chrome on XP (bb0ff9babe24a3dc7509dd53c6b4c1cc)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[2]/td[2]/input]entered 
+[main] 17:33:27,120 INFO  [common.commonclass] [[ChromeDriver: chrome on XP (bb0ff9babe24a3dc7509dd53c6b4c1cc)] -> css selector: [type='radio'][value='f']]checked 
+[main] 17:33:27,134 INFO  [test.CreateStepDefination] second comment
+[main] 17:33:33,239 INFO  [common.commonclass] [[ChromeDriver: chrome on XP (bb0ff9babe24a3dc7509dd53c6b4c1cc)] -> xpath: //*[@id="tdb4"]/span[2]]clicked 
+[main] 17:37:27,747 INFO  [common.commonclass] opening browser
+[main] 17:37:32,618 INFO  [common.commonclass] opened oscommerce
+[main] 17:37:32,618 INFO  [test.CreateStepDefination] First comment
+[main] 17:38:03,289 INFO  [common.commonclass] Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='bodyContent']/div/div[1]/a[2]/u'clicked 
+[main] 17:38:05,158 INFO  [common.commonclass] [[ChromeDriver: chrome on XP (5738e0cec4e6f672cbfba97fea30787a)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[2]/td[2]/input]entered 
+[main] 17:38:05,274 INFO  [common.commonclass] [[ChromeDriver: chrome on XP (5738e0cec4e6f672cbfba97fea30787a)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[3]/td[2]/input]entered 
+[main] 17:38:05,551 INFO  [common.commonclass] [[ChromeDriver: chrome on XP (5738e0cec4e6f672cbfba97fea30787a)] -> xpath: //*[@id='dob']]entered 
+[main] 17:38:05,705 INFO  [common.commonclass] [[ChromeDriver: chrome on XP (5738e0cec4e6f672cbfba97fea30787a)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[5]/td[2]/input]entered 
+[main] 17:38:05,893 INFO  [common.commonclass] [[ChromeDriver: chrome on XP (5738e0cec4e6f672cbfba97fea30787a)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[1]/td[2]/input]entered 
+[main] 17:38:06,082 INFO  [common.commonclass] [[ChromeDriver: chrome on XP (5738e0cec4e6f672cbfba97fea30787a)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[3]/td[2]/input]entered 
+[main] 17:38:06,193 INFO  [common.commonclass] [[ChromeDriver: chrome on XP (5738e0cec4e6f672cbfba97fea30787a)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[4]/td[2]/input]entered 
+[main] 17:38:06,332 INFO  [common.commonclass] [[ChromeDriver: chrome on XP (5738e0cec4e6f672cbfba97fea30787a)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[5]/td[2]/input]entered 
+[main] 17:38:06,425 INFO  [common.commonclass] [[ChromeDriver: chrome on XP (5738e0cec4e6f672cbfba97fea30787a)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[6]/td[2]/select]entered 
+[main] 17:38:06,572 INFO  [common.commonclass] [[ChromeDriver: chrome on XP (5738e0cec4e6f672cbfba97fea30787a)] -> xpath: //*[@id='bodyContent']/form/div/div[5]/table/tbody/tr[1]/td[2]/input]entered 
+[main] 17:38:06,773 INFO  [common.commonclass] [[ChromeDriver: chrome on XP (5738e0cec4e6f672cbfba97fea30787a)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[1]/td[2]/input]entered 
+[main] 17:38:07,114 INFO  [common.commonclass] [[ChromeDriver: chrome on XP (5738e0cec4e6f672cbfba97fea30787a)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[2]/td[2]/input]entered 
+[main] 17:38:12,333 INFO  [common.commonclass] [[ChromeDriver: chrome on XP (5738e0cec4e6f672cbfba97fea30787a)] -> css selector: [type='radio'][value='f']]checked 
+[main] 17:38:12,342 INFO  [test.CreateStepDefination] second comment
+[main] 17:38:48,339 INFO  [common.commonclass] Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tdb4"]/span[2]'clicked 
