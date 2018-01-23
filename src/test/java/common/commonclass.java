@@ -19,16 +19,16 @@ public class commonclass {
 			 // String getBrowserType = read.datapass("BrowserType");
 			  
 		   if(sBrowserType.equalsIgnoreCase("Firefox")) {
-			    System.setProperty("webdriver.gecko.driver", "C:\\Selenium\\driver\\geckodriver.exe");
+			    System.setProperty("webdriver.gecko.driver", "Driver\\geckodriver.exe");
 			    logger.info("opening browser");
 				  driver = new FirefoxDriver();
 			}else if(sBrowserType.equalsIgnoreCase("Chrome")){
-				 System.setProperty("webdriver.chrome.driver", "C:\\Selenium\\driver\\chromedriver.exe");
+				 System.setProperty("webdriver.chrome.driver", "Driver\\chromedriver.exe");
 				    logger.info("opening browser");
 					  driver = new ChromeDriver();
 			}
 			else if(sBrowserType.equalsIgnoreCase("InternetExplorer")){
-				 System.setProperty("webdriver.ie.driver", "C:\\Selenium\\driver\\IEDriverServer.exe");
+				 System.setProperty("webdriver.ie.driver", "Driver\\IEDriverServer.exe");
 				    logger.info("opening browser");
 					  driver = new InternetExplorerDriver();
 			}
